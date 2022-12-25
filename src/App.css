@@ -8,7 +8,7 @@
 
 fieldset {
   display: flex;
-  width: 480px;
+  width: 80%;
   padding: 16px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -58,7 +58,8 @@ select {
 
 button {
   padding: 12px;
-  width: 240px;
+  width: 70%;
+  margin: 0 auto;
   border-radius: 4px;
   border: 1px solid #ccc;
   background-color: darkblue;
@@ -75,4 +76,10 @@ button[disabled] {
   background-color: #cccccc;
   color: #666666;
   cursor: not-allowed;
+}
+
+.container {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
 }
