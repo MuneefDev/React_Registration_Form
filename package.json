@@ -1,6 +1,6 @@
 {
   "homepage": "https://muneefdev.github.io/React_Registration_Form/",
-  "name": "m1l3-05-exercise-create-a-registration-form",
+  "name": "registration-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
